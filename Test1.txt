@@ -1,4 +1,3 @@
 This is my first Edit of this file.
 
-
-This is a commit of Branch 2.
+This is added to the branch 1.This is a commit of Branch 2.
